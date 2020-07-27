@@ -40,11 +40,11 @@ experience:
         title: Software Development Manager
         company: Eleva Educação
         duration: February 2018 - September 2019
-      - logo: http://webradar.com/portal/images/webradar-mobile.png
+      - logo: https://media-exp1.licdn.com/dms/image/C560BAQFE0oInpYD3vg/company-logo_200_200/0?e=1603929600&v=beta&t=esVHO41ms2JbTvk1-RhRoo3GUjrF2gMcyFY90espS3s
         title: Software Development Coordinator
         company: Webradar
         duration: 2016 - February 2018
-      - logo: http://webradar.com/portal/images/webradar-mobile.png
+      - logo: https://media-exp1.licdn.com/dms/image/C560BAQFE0oInpYD3vg/company-logo_200_200/0?e=1603929600&v=beta&t=esVHO41ms2JbTvk1-RhRoo3GUjrF2gMcyFY90espS3s
         title: Senior Software Engineer
         company: Webradar
         duration: September 2013 - 2016       
@@ -52,6 +52,18 @@ experience:
         title: Software Engineer
         company: Chemtech
         duration: June 2008 - September 2013
+      - logo: https://media-exp1.licdn.com/dms/image/C4D0BAQG9BHOrEo9JBQ/company-logo_100_100/0?e=1603929600&v=beta&t=8pjX7hmEAX3_T3RJoDw0IDDKbCxaQoFaq0CbZQPqZiU
+        title: Intern
+        company: Accenture
+        duration: October 2007 - September 2008
+      - logo: https://media-exp1.licdn.com/dms/image/C560BAQHyBYH2I7PRmw/company-logo_200_200/0?e=1603929600&v=beta&t=2YHdwD3auuiDjIOY-2G0WdtfDKFh3_WTeW8aExLkXCo
+        title: Intern
+        company: Nomus
+        duration: October 2005 - October 2007
+      - logo: https://media-exp1.licdn.com/dms/image/C4E0BAQFYlQ43Tqe-GA/company-logo_200_200/0?e=1603929600&v=beta&t=32yLlUysw6CupyhPaYP0oPwRqnMxQLaJQNtv0R1njRE
+        title: Bolsista de Iniciação Científica
+        company: Laboratório de Ensaios Não Destrutivos
+        duration: March 2004 - October 2005
 
 education:
   enable: true
