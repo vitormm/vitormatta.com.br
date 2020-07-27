@@ -1,0 +1,70 @@
+banner:
+    title: Hi! I’m Vitor
+
+social:
+    twitter: "vitormatta"
+    linkedin: vitormatta
+    github: vitormm
+    gitlab: ""
+    facebook: ""
+    instagram: ""
+    gmail: vitormm
+
+
+about:
+    enable: true
+    content: Electronics and computer engineer, passionate about technology and movies.
+    #button:
+    #    btnText: Find out more
+    #    URL: "/about"
+
+
+skill:
+    enable: false
+    #item:
+    #    - title: JavaScript
+    #    logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+    #    description: Details coming soon, contact me if you want to know more
+
+
+
+
+experience:
+    enable: true
+    item:
+      - logo: https://cyberlabs.ai/wp-content/uploads/sites/7/2020/04/cyberCt-1024x264.png
+        title: CTO
+        company: Cyberlabs AI
+        duration: September 2019 - today
+      - logo: https://elevaeducacao.com.br/wp-content/uploads/2019/11/cropped-logo_eleva.png
+        title: Software Development Manager
+        company: Eleva Educação
+        duration: February 2018 - September 2019
+      - logo: http://webradar.com/portal/images/webradar-mobile.png
+        title: Software Development Coordinator
+        company: Webradar
+        duration: 2016 - February 2018
+      - logo: http://webradar.com/portal/images/webradar-mobile.png
+        title: Senior Software Engineer
+        company: Webradar
+        duration: September 2013 - 2016       
+      - logo: https://media-exp1.licdn.com/dms/image/C4E0BAQEo_Hwl31WZbw/company-logo_200_200/0?e=1603929600&v=beta&t=VRBZvWF4bcY-b-UvkRvZ2idlYAHYjffmeLqJy4OvkGY
+        title: Software Engineer
+        company: Chemtech
+        duration: June 2008 - September 2013
+
+education:
+  enable: true
+  item:
+    - title: MSc Computer Intelligence
+      year: 2012
+      academy: COPPE - UFRJ
+      title: Método Automático para Aumento do Conjunto de Treino de Redes Neurais
+      image: https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logo_COPPE_-_UFRJ.jpg/270px-Logo_COPPE_-_UFRJ.jpg
+      URL: http://pee.ufrj.br/teses/textocompleto/2012092701.pdf
+    - title: BSc Electronics and Computer Engineer
+      year: 2007
+      academy: UFRJ
+      title: Análise de erro de um algoritmo de estereofotogrametria em função da resolução das imagens
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Minerva_UFRJ_Oficial.png/200px-Minerva_UFRJ_Oficial.png
+      URL: http://www.monografias.poli.ufrj.br/monografias/monopoli10003259.pdf
